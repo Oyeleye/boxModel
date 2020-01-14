@@ -1,0 +1,42 @@
+P { 
+	/*Content- width and height */
+	width: 20%;
+	height: 30px;
+/* Border */
+border: 2px solid blue;
+/* Padding */
+padding: 10px; 
+
+/* padding-left: 40 px; */
+
+/* Margin  */
+/* margin: 100px; */
+
+/* NOTE, for margin, you can include four values, instead of 
+writing margin top, right, bottom and left. See below: */
+
+/*margin: 50px 40px 500px 100px;
+ The first value is for top, second value for right, third for 
+bottom, while the fourth is for left. */
+
+/* We can also do margin auto, where the left and right sides of 
+the margin will be at the centre. For instance, 0 magin on top, 
+auto on the right, 0 margin at the bottom, and auto on the left. 
+See below */
+/* margin: 0 auto 0 auto; */
+
+/*Also note that you always need to add px, unless 
+the number is zero.*/
+
+/* There is even a shorter way to do this. See below */
+/* margin: 0 auto; */
+margin: 50px auto; 
+
+/* The first value represents the top and bottom, while the second value is
+for the right and left. */
+}
+
+
+
+
+
